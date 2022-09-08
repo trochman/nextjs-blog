@@ -1,0 +1,28 @@
+{
+  "name": "CS5513-Week03-TonyRochman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "date-fns": "^2.29.2",
+    "gray-matter": "^4.0.3",
+    "next": "^12.2.5",
+    "remark": "^14.0.2",
+    "remark-html": "^15.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trochman/nextjs-blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trochman/nextjs-blog/issues"
+  },
+  "homepage": "https://github.com/trochman/nextjs-blog#readme"
+}
